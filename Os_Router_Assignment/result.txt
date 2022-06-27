@@ -1,0 +1,27 @@
+******************************************************
+(d)  (d)  arrived
+(d)  (d)  arrived
+(d)  (d)  arrived
+Connection 3 : d occupied
+Connection 1 : d occupied
+(dd)  (d)  arrived
+Connection 4 : dd occupied
+Connection 2 : d occupied
+Connection 1 : d login
+Connection 3 : d login
+Connection 4 : dd login
+Connection 2 : d login
+Connection 4 : dd perform operations
+Connection 4 : dd log out
+Connection 2 : d perform operations
+Connection 3 : d perform operations
+Connection 1 : d perform operations
+Connection 2 : d log out
+Connection 3 : d log out
+Connection 1 : d log out
+******************************************************
+(s)  (s)  arrived
+Connection 1 : s occupied
+Connection 1 : s login
+Connection 1 : s perform operations
+Connection 1 : s log out
